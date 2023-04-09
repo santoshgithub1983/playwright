@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.cucumber:html-formatter:20.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/html-formatter/20.2.1/85ef2c7df6e52cbeda62fb8db7998a3904834701/html-formatter-20.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/html-formatter/20.2.1/8ea8a5ade58fed1350577e821d9a31fd15faf18d/html-formatter-20.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

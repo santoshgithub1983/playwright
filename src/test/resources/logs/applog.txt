@@ -1,0 +1,11 @@
+INFO    2022-12-24 15:01:42,696 [main] testcases.CarNamesAndPriceTest  - Test Execution started !!!
+INFO    2022-12-24 15:01:47,659 [main] testcases.FindNewCarsTest  - Launching Chrome browser
+INFO    2022-12-24 15:01:51,731 [main] testcases.FindNewCarsTest  - Navigated to : https://www.carwale.com/
+INFO    2022-12-24 15:01:56,768 [main] testcases.CarNamesAndPriceTest  - Launching Chrome browser
+INFO    2022-12-24 15:02:00,836 [main] testcases.CarNamesAndPriceTest  - Navigated to : https://www.carwale.com/
+INFO    2022-12-24 15:02:05,464 [main] testcases.CarNamesAndPriceTest  - Launching Chrome browser
+INFO    2022-12-24 15:02:09,149 [main] testcases.CarNamesAndPriceTest  - Navigated to : https://www.carwale.com/
+INFO    2022-12-24 15:02:14,695 [main] testcases.CarNamesAndPriceTest  - Launching Firefox browser
+INFO    2022-12-24 15:02:21,665 [main] testcases.CarNamesAndPriceTest  - Navigated to : https://www.carwale.com/
+INFO    2022-12-24 15:02:28,639 [main] testcases.CarNamesAndPriceTest  - Launching Firefox browser
+INFO    2022-12-24 15:02:32,827 [main] testcases.CarNamesAndPriceTest  - Navigated to : https://www.carwale.com/

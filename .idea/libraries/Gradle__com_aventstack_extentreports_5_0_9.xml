@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aventstack:extentreports:5.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/5.0.9/6f3f92f82758f494ebea099fef169f089ea240a3/extentreports-5.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/5.0.9/1d7836bd4e32e23a880e941881d8770b45abdec8/extentreports-5.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

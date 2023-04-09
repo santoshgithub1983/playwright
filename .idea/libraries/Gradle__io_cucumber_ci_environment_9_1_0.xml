@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.cucumber:ci-environment:9.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/ci-environment/9.1.0/cda2cd1d83ac9d44993daed3bd9a7e3f26a55873/ci-environment-9.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/ci-environment/9.1.0/ddfc938d3755d0a7116a06ebb3eff113272955ed/ci-environment-9.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

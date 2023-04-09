@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aventstack:klov-reporter:5.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aventstack/klov-reporter/5.0.9/43b61b2d342e3d9f88227edde45953fd7a1aa41c/klov-reporter-5.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aventstack/klov-reporter/5.0.9/9cc741da1523cfcd7ca812df17d5215faeaf41eb/klov-reporter-5.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
